@@ -11,3 +11,4 @@ Lumora Seeds Project  —— 让每个人都拥有自己的AI虚拟伙伴
 - [ ] 图形化界面（计划中）
 
 欢迎关注，也欢迎一起建设。
+[![License](https://img.shields.io/github/license/domirus-lumora/Lumora_Seeds_Project)](./LICENSE)
