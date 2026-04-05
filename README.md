@@ -39,7 +39,7 @@
 
 ## 这个项目从哪来？
 
-**Seeds Project** 是 **[神霁 Lumora](https://www.lumora-aivtuber.index.in/)** 的技术内核。
+**Seeds Project** 是 **[神霁 Lumora](https://www.lumora-aivtuber.indevs.in/)** 的技术内核。
 
 神霁是第一个用 Seeds Project 打造的 AI VTuber。  
 她证明了：**一个人，一台电脑，也能做出有灵魂的 AI。**
@@ -146,9 +146,8 @@ A: **可以。** 这正是 Seeds Project 的意义——让所有人都有机会
 
 ## 联系方式
 
-- 官网：[https://www.lumora-aivtuber.index.in/](https://www.lumora-aivtuber.index.in/)
-- GitHub：[https://github.com/你的用户名/Seeds-Project](https://github.com/你的用户名/Seeds-Project)
-- Discord：[加入社区](https://discord.gg/你的链接)
+- 官网：[https://www.lumora-aivtuber.indevs
+.in/](https://www.lumora-aivtuber.indevs.in/)
 - X (Twitter)：[@Lumora_domirus](https://x.com/Lumora_domirus)
 - YouTube：[Lumora - AI VTuber](https://www.youtube.com/@Lumora-AIvtuber)
 - Twitch：[lumora_domirus](https://twitch.tv/lumora_domirus)
